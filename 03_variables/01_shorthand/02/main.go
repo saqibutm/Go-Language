@@ -9,6 +9,7 @@ func main(){
 	c := 4.17
 	d := true
 
+	// %T representation of the type of the value
 	fmt.Printf("%T \n", a)
 	fmt.Printf("%T \n", b)
 	fmt.Printf("%T \n", c)

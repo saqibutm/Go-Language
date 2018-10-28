@@ -7,6 +7,10 @@ var x = 42
 func main() {
 	fmt.Println(x)
 	foo()
+	y := 6
+	fmt.Println(y)
+
+
 }
 
 func foo() {
